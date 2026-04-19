@@ -1,6 +1,7 @@
 # 🌦️ Meteo Portugal
 
-**Versão 26.1**
+**Versão 26.1** 
+[Road Map](https://trello.com/b/hKr4ImJM/meteo-portugal-tempo-e-mar-roadmap)
 
  Meteo Portugal desenvolvido por pmpsilva powered by IPMA e Open-Meteo.
 
