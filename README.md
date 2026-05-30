@@ -1,5 +1,68 @@
 # 🌦️ Meteo Portugal
 
+# MeteoTuga v26.3 — Novidades
+
+## 🎨 Página Inicial Personalizável
+
+A página inicial é agora **totalmente personalizável**. Adapta o Meteo Portugal ao que realmente te interessa:
+
+- **Reordena os cards** — arrasta e organiza os cards na ordem que preferires. Queres ver primeiro a precipitação? Ou o UV? Tu decides.
+- **Esconde cards** — não precisas de ver tudo. Esconde os cards que não te interessam e mantém o ecrã limpo e focado.
+
+Cards disponíveis para personalizar:
+
+| Card | O que mostra |
+|------|-------------|
+| 🌧️ Precipitação | Probabilidade de chuva |
+| 💨 Vento | Velocidade e direção do vento |
+| 💧 Humidade | Humidade relativa atual |
+| 🌊 Mar | Altura das ondas e temperatura da água |
+| 🌅 Nascer/Pôr do Sol | Horas de nascer e pôr do sol |
+| ☀️ Índice UV | Nível de radiação ultravioleta |
+| 📅 Previsão 10 Dias | Previsão detalhada para os próximos 10 dias |
+
+> Acede às **Definições** para reordenar e esconder os cards a teu gosto.
+
+---
+
+## 📱 Novos Widgets
+
+Três novos widgets para teres a meteorologia sempre à mão, diretamente no ecrã inicial do teu telemóvel.
+
+### Widget Compacto (2×1)
+
+O essencial num espaço mínimo:
+- Condições atuais (ícone + temperatura)
+- Máxima e mínima do dia
+- Nome da localização
+- Atualização com um toque
+
+### Widget Diário (4×1)
+
+Uma visão rápida da semana sem abrir a app:
+- Condições atuais à esquerda
+- Previsão dos próximos **4 dias** à direita
+- Temperaturas máximas e mínimas por dia
+- Ícones meteorológicos para cada dia
+
+### Widget Completo (4×2)
+
+A previsão mais completa, direto no ecrã inicial:
+- Condições atuais com temperatura em destaque
+- Previsão dos próximos **4 dias**
+- Temperaturas máximas e mínimas
+- **Probabilidade de precipitação** para cada dia
+- Ícones meteorológicos detalhados
+
+> Todos os widgets adaptam o fundo automaticamente às condições meteorológicas e à hora do dia — incluindo nascer e pôr do sol reais da tua localização.
+
+---
+
+*MeteoTuga — Meteorologia portuguesa, simples e bonita.* 🇵🇹
+
+
+
+
 **Versão 26.1** 
 [Road Map](https://trello.com/b/hKr4ImJM/meteo-portugal-tempo-e-mar-roadmap)
 
